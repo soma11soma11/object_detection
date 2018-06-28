@@ -31,4 +31,4 @@ for targeted_image in targeted_images_list:
     shutil.copy(src_dir, image_folder_name)
 
 
-print(targeted_images_list)
+
